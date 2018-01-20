@@ -1,6 +1,6 @@
 # blockchain-study-group
 
-Repositório do grupo de estudos sobre blockchain do [Training Center](https://training-center.github.io).
+Repositório do grupo de estudos sobre **blockchain** do [Training Center](https://training-center.github.io).
 
 <p align="center">
   <img src="assets/training-center-logo.svg" alt="Logo do Training Center">
@@ -14,7 +14,7 @@ Conforme [outros grupos de estudos](https://github.com/training-center/study-gro
 
 ## Como participar
 
-Basta responder [este formulário]() para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#blockchain-studies**.
+Basta responder [este formulário](https://goo.gl/forms/yIzW4Z5Mx1EdufZR2) para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#blockchain-studies**.
 
 ## Reuniões
 
